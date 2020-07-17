@@ -19,10 +19,12 @@ h2{
 
 .message{
  margin: auto;
+  height: 60%;
   width: 60%;
   padding: 1rem;
   text-align: center;
   line-height: 1.5;
+  padding-top:10%;
 }
 
 .ctaLink{
