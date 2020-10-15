@@ -15,7 +15,7 @@ var nickname_list = [
   "Kim Reynolds", 
   "Kim Reynolds", 
   "Kim Reynolds", 
-  "Kim Reynolds", 
+  'Kim "Do What I say not what I do" Reynolds', 
   "COVID Kim",
   "Kim, 'Open the Schools' Reynolds",
   "Iowa Govenor Kim Reynolds", 
