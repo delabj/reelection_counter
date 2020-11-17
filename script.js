@@ -9,17 +9,17 @@ var dayTillElection = Math. ceil((election_date - today)/(1000*60*60*24));
 
 
 var nickname_list = [
-  "Kim Reynolds", 
-  "Kim Reynolds", 
-  "Kim Reynolds", 
-  "Kim Reynolds", 
-  "Kim Reynolds", 
-  "Kim Reynolds", 
+  'Kim Reynolds', 
+  'Kim Reynolds', 
+  'Kim Reynolds', 
+  'Kim Reynolds', 
+  'Kim Reynolds', 
+  'Kim "Literally Worse than Mediacom" Reynolds', 
   'Kim "Do What I say not what I do" Reynolds', 
-  "COVID Kim",
-  "Kim, 'Open the Schools' Reynolds",
-  "Iowa Govenor Kim Reynolds", 
-  "Kim, the COVID Kid"
+  'COVID Kim',
+  'Kim, "Open the Schools" Reynolds',
+  'Iowa Govenor Kim Reynolds', 
+  'Kim, the COVID Kid'
 ];
 
 // calculate number of days
