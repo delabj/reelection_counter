@@ -15,7 +15,7 @@ var nickname_list = [
   'Kim Reynolds', 
   'Kim Reynolds', 
   'Kim "Literally Worse than Mediacom" Reynolds', 
-  'Kim "Do What I say not what I do" Reynolds', 
+  'The Kim Reaper', 
   'COVID Kim',
   'Kim, "Open the Schools" Reynolds',
   'Iowa Govenor Kim Reynolds', 
