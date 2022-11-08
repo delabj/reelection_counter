@@ -19,7 +19,8 @@ var nickname_list = [
   'COVID Kim',
   'Kim, "Open the Schools" Reynolds',
   'Iowa Govenor Kim Reynolds', 
-  'Kim, the COVID Kid'
+  'Kim, the COVID Kid',
+  'Kim "Why Not Drink & Drive" Reynolds'
 ];
 
 // calculate number of days
