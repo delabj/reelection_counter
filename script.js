@@ -5,7 +5,7 @@ var election_date = new Date("2022-11-08");
 var today = new Date();
 
 //calcuate days
-var dayTillElection = Math. ceil((election_date - today)/(1000*60*60*24));
+var dayTillElection = Math. ceil((election_date - today)/(1000*60*60*24))+1;
 
 
 var nickname_list = [
